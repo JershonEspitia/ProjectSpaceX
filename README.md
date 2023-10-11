@@ -35,6 +35,8 @@ El proyecto consta de los siguientes archivos:
 
 ### 1. Consulta para obtener los parches de cada una de las misiones.
 
+Esta consulta devuelve los parches que se usaron para cada una de las misiones.
+
 **Method** : `GET`
 
 **Version** : `v3`
@@ -69,6 +71,8 @@ El proyecto consta de los siguientes archivos:
 
 ### 2. Consulta para obtener las fotos de los cohetes.
 
+Esta consulta muestra las imagenes de los cohetes.
+
 **Method** : `GET`
 
 **Version** : `v3`
@@ -101,6 +105,8 @@ El proyecto consta de los siguientes archivos:
 ```
 
 ### 3. Consulta para obtener las fotos de los barcos.
+
+Esta consulta muestra las fotos de los barcos.
 
 **Method** : `GET`
 
@@ -135,6 +141,8 @@ El proyecto consta de los siguientes archivos:
 ### Versión 4:
 
 ### 1. Consulta para obtener todas las capsulas que tiene como tipo Dragon 1.0 y su estado es unknown.
+
+Esta consulta muestra las capsulas que son de tipo Dragon 1.0 y su estado es unknown, con su respectivo id.
 
 **Method** : `POST`
 
@@ -177,6 +185,8 @@ El proyecto consta de los siguientes archivos:
 ```
 
 ### 2. Consulta para obtener todas las imagenes de los Dragons.
+
+Esta consulta muiestra las imagenes de los dragons.
 
 **Method** : `POST`
 
@@ -223,6 +233,8 @@ El proyecto consta de los siguientes archivos:
 ```
 
 ### 3. Consulta para obtener todo el historial de artículos.
+
+Esta consulta muestra los articulos escritos de las misiones hechas.
 
 **Method** : `POST`
 
